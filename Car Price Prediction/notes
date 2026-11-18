@@ -1,0 +1,9 @@
+model --> Ford Car Brands (USE)
+year --> Production Year    (USE)
+price --> Price of car in $ -> distribution
+transmission --> Automatic, Manual, Semi-Auto   (Disputed)
+mileage --> Number of miles traveled      (USE)
+Fuel_type --> Petrol, Disel, Hybrid, Electric, Other  (USE)
+tax --> Annual Tax
+mpg --> Miles per gallon        (USE)
+engineSize --> Car's Engine Size.      (USE)
